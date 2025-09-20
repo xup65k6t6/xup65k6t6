@@ -1,4 +1,4 @@
-## Hi, I'm Christopher Lin 👋
+## 👋 Hi, I'm Christopher Lin 
 
 <!--
 **xup65k6t6/xup65k6t6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
